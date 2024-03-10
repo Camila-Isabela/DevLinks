@@ -56,6 +56,9 @@ ul li a {
     border: 1px solid rgba(255, 255, 255, 0.5);
     border-radius: 8px;
 
-    bf
+    backdrop-filter: blur(4px);
     -webkit-backdrop-filter: blur(4px);
+
+    text-decoration: none;
+    font-weight: 500;
 }
